@@ -2,14 +2,15 @@
 #### by Jesse Coulson
 
 ## Purpose
-This project analyzes a customer churn dataset for a bank to identify factors influencing customer retention. We perform exploratory data analysis, feature engineering, and model building to predict customer churn. The aim is to provide insights to the bank for improving customer retention strategies.
-
+This project analyzes a customer churn dataset for a bank to identify factors influencing customer retention. We will perform exploratory data analysis, feature engineering, and model building to predict customer churn. The aim is to provide insights to the bank for improving customer retention strategies.
 
 ## Usage
 Open and view the `customer_churn_classification.ipynb` Jupyter Notebook to follow the entire project workflow from data preprocessing to model evaluation. The notebook contains detailed explanations and code for each step.
 
 ## Visuals
-### Example visuals from EDA
+### Pipeline Visualization
+![image](https://github.com/jccoulson/customer-churn-classifcation/assets/28967794/5483c3fe-a17f-40d9-9753-82f499a2a075)
+### Example Visuals from EDA
 <img src="eda_figures/example_barplot.png"/>
 <img src="eda_figures/example_boxplot.png"/>
 
